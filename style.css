@@ -1,0 +1,31 @@
+ #titulo {
+    color: rgb(247, 242, 241);
+    background-color: rgb(252, 193, 32);
+    
+
+ }
+ #CV {
+    color: rgb(252, 251, 251);
+    background-color: rgba(245, 141, 5, 0.734);
+    border-style:outset;color:rgb(245, 248, 248);
+    
+    
+ }
+ #Nuestros {
+    color: rgb(252, 123, 23);
+    text-decoration: solid;
+
+ }
+ #back {
+    background-image: url(imagenes/arqlines.jpg);
+ }
+ #nombres {
+    list-style-type: disc;text-align: center;
+    
+ }
+ #todorimg {
+    
+    border-style: double;color: azure;
+    text-decoration: double;color: chocolate;
+    
+ }
